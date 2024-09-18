@@ -28,3 +28,20 @@ sudo apt install -y default-jdk
 # copy over the scripted folder into the home directory
 cp -r ./scripts/ ~/
 
+# create folder structure
+mkdir ~/ICS4U
+mkdir ~/ICS4U/Unit1
+mkdir ~/ICS4U/Unit1/Unit1-01
+mkdir ~/ICS4U/Unit1/Unit1-02
+mkdir ~/ICS4U/Unit1/Unit1-03
+mkdir ~/ICS4U/Unit1/Unit1-04
+mkdir ~/ICS4U/Unit1/Unit1-05
+mkdir ~/ICS4U/Unit1/Unit1-06
+mkdir ~/ICS4U/Unit1/Unit1-07
+# ...
+
+# reboot
+echo ---
+echo rebooting now ...
+echo ---
+sudo reboot now

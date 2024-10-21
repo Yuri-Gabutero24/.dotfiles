@@ -31,18 +31,21 @@ cp -r ./scripts/ ~/
 
 # create folder structure
 mkdir ~/ICS4U
-mkdir ~/ICS4U/Unit1
-mkdir ~/ICS4U/Unit1/Unit1-01
-mkdir ~/ICS4U/Unit1/Unit1-02
-mkdir ~/ICS4U/Unit1/Unit1-03
-mkdir ~/ICS4U/Unit1/Unit1-04
-mkdir ~/ICS4U/Unit1/Unit1-05
-mkdir ~/ICS4U/Unit1/Unit1-06
-mkdir ~/ICS4U/Unit1/Unit1-07
+mkdir ~/ICS4U/Unit2
+mkdir ~/ICS4U/Unit2/Unit2-01
+mkdir ~/ICS4U/Unit2/Unit2-02
+mkdir ~/ICS4U/Unit2/Unit2-03
+mkdir ~/ICS4U/Unit2/Unit2-04
+mkdir ~/ICS4U/Unit2/Unit2-05
+mkdir ~/ICS4U/Unit2/Unit2-06
+mkdir ~/ICS4U/Unit2/Unit2-07
+mkdir ~/ICS4U/Unit2/Unit2-08
+mkdir ~/ICS4U/Unit2/Unit2-09
+mkdir ~/ICS4U/Unit2/Unit2-10
 # ...
 
 # reboot
 echo ---
-echo rebooting now ...
+echo rebooting ...
 echo ---
 sudo reboot now
